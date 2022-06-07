@@ -4,7 +4,7 @@
 - ⛄ Snow scientist 
 - ❄️ PhD Geophysics student working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology)
 - 🩺 Wilderness First Responder & CPR certified
-- ⛷️ Skiing (PSIA level 1 nordic instuctor), Hiking, Canoeing!
+- ⛷️ Skiing (PSIA nordic level 1), Hiking, Canoeing!
 - 🧙‍♂️ D&D Dungeon Master
 
 ## current projects
