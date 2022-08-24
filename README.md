@@ -19,6 +19,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## publications
-- Zikan, K., Adolph, A., Brown, W., & Fausto, R. (2022). Comparison of MODIS surface temperatures to in situ measurements on the Greenland Ice Sheet from 2014 to 2017. Journal of Glaciology, 1-12. [doi:10.1017/jog.2022.51](https://www.cambridge.org/core/journals/journal-of-glaciology/article/comparison-of-modis-surface-temperatures-to-in-situ-measurements-on-the-greenland-ice-sheet-from-2014-to-2017/BCBBBBEC79006B5575BA870F058C5D8A)
+- Zikan, K., Adolph, A., Brown, W., & Fausto, R. (2022). Comparison of MODIS surface temperatures to in situ measurements on the Greenland Ice Sheet from 2014 to 2017. Journal of Glaciology, 1-12. [doi:10.1017/jog.2022.51](https://doi.org/10.1017/jog.2022.51)
 
 ## contact: karinazikan@u.boisestate.edu
