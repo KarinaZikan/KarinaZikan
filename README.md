@@ -5,7 +5,7 @@
 - ❄️ PhD Geophysics student working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology)
 - 🩺 Wilderness First Responder & CPR certified
 - ⛷️ Skiing, 🥾 Hiking, 🛶 Canoeing!
-- 🧙‍♂️ D&D and board games
+- 🎲 D&D and board games
 
 ## current projects
 - 🛰️ Using ICESat-2 to measure snow depths in alpine watersheds
