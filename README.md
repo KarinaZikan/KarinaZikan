@@ -1,7 +1,7 @@
 # Hello!
 
 ## about me
-- ⛄ Snow scientist 
+- ☃️ Snow scientist 
 - ❄️ PhD Geophysics student working with [Ellyn Enderlin](https://github.com/ellynenderlin) in the [CryoGARS Lab](https://github.com/CryoGARS-Glaciology)
 - 🩺 Wilderness First Responder & CPR certified
 - ⛷️ Skiing, 🥾 Hiking, 🛶 Canoeing!
