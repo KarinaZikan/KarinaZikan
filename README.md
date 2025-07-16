@@ -9,7 +9,8 @@
 
 ## current projects
 - 🛰️ Using ICESat-2 to measure snow depths in alpine watersheds
-- 🚁 Mapping Mores Creek Summit using Helicopter LiDAR
+- 🚁 Mapping Mores Creek Summit snow depth using Helicopter LiDAR
+- 🧊 Automatic mapping of the Greenland Icesheet land terminating margin
 
 ## I use
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge&logo=MATLAB)
